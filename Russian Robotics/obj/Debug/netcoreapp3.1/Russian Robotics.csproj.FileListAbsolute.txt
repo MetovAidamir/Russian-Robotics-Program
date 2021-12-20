@@ -448,8 +448,9 @@ C:\Users\mnvp\Desktop\Russian-Robotics-Program\Russian Robotics\bin\Debug\netcor
 C:\Users\mnvp\Desktop\Russian-Robotics-Program\Russian Robotics\obj\Debug\netcoreapp3.1\Russian Robotics.csprojAssemblyReference.cache
 C:\Users\mnvp\Desktop\Russian-Robotics-Program\Russian Robotics\obj\Debug\netcoreapp3.1\Russian Robotics.AssemblyInfoInputs.cache
 C:\Users\mnvp\Desktop\Russian-Robotics-Program\Russian Robotics\obj\Debug\netcoreapp3.1\Russian Robotics.AssemblyInfo.cs
-C:\Users\mnvp\Desktop\Russian-Robotics-Program\Russian Robotics\obj\Debug\netcoreapp3.1\Russian Robotics.csproj.CoreCompileInputs.cache
 C:\Users\mnvp\Desktop\Russian-Robotics-Program\Russian Robotics\obj\Debug\netcoreapp3.1\Russian Robotics.csproj.CopyComplete
 C:\Users\mnvp\Desktop\Russian-Robotics-Program\Russian Robotics\obj\Debug\netcoreapp3.1\Russian Robotics.dll
 C:\Users\mnvp\Desktop\Russian-Robotics-Program\Russian Robotics\obj\Debug\netcoreapp3.1\Russian Robotics.pdb
 C:\Users\mnvp\Desktop\Russian-Robotics-Program\Russian Robotics\obj\Debug\netcoreapp3.1\Russian Robotics.genruntimeconfig.cache
+C:\Users\mnvp\Desktop\Russian-Robotics-Program\Russian Robotics\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\mnvp\Desktop\Russian-Robotics-Program\Russian Robotics\obj\Debug\netcoreapp3.1\Russian Robotics.csproj.CoreCompileInputs.cache

@@ -14,6 +14,18 @@
           "lib/netstandard2.0/Consul.dll": {}
         }
       },
+      "CsvHelper/27.2.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/CsvHelper.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/CsvHelper.dll": {}
+        }
+      },
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -2686,6 +2698,30 @@
         "consul.nuspec",
         "lib/net461/Consul.dll",
         "lib/netstandard2.0/Consul.dll"
+      ]
+    },
+    "CsvHelper/27.2.1": {
+      "sha512": "uS5ix5hL9gL5taiAG//CScyJa8Fn1ZOh3FDhDvf4laboESFs84mCNropfp7PIt8xCkyQofljFpqu1B5UnSXjyA==",
+      "type": "package",
+      "path": "csvhelper/27.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "csvhelper.27.2.1.nupkg.sha512",
+        "csvhelper.nuspec",
+        "lib/net45/CsvHelper.dll",
+        "lib/net45/CsvHelper.xml",
+        "lib/net47/CsvHelper.dll",
+        "lib/net47/CsvHelper.xml",
+        "lib/net5.0/CsvHelper.dll",
+        "lib/net5.0/CsvHelper.xml",
+        "lib/net6.0/CsvHelper.dll",
+        "lib/net6.0/CsvHelper.xml",
+        "lib/netstandard2.0/CsvHelper.dll",
+        "lib/netstandard2.0/CsvHelper.xml",
+        "lib/netstandard2.1/CsvHelper.dll",
+        "lib/netstandard2.1/CsvHelper.xml"
       ]
     },
     "Humanizer.Core/2.8.26": {
@@ -8700,6 +8736,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Consul >= 1.6.10.3",
+      "CsvHelper >= 27.2.1",
       "MailKit >= 3.0.0",
       "Microsoft.AspNetCore.Mvc.DataAnnotations >= 2.2.0",
       "Microsoft.EntityFrameworkCore >= 5.0.13",
@@ -8754,6 +8791,10 @@
           "Consul": {
             "target": "Package",
             "version": "[1.6.10.3, )"
+          },
+          "CsvHelper": {
+            "target": "Package",
+            "version": "[27.2.1, )"
           },
           "MailKit": {
             "target": "Package",
